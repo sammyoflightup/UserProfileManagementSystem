@@ -1,25 +1,3 @@
-## Project Structure
-UserProfileManagementSystem/
-## ├── src/
-## │   ├── app.py
-## │   ├── models.py
-## │   ├── routes.py
-## │   ├── static/
-## │   │   ├── css/
-## │   │   │   └── style.css
-## │   │   └── js/
-## │   │       └── script.js
-## │   ├── templates/
-## │   │   ├── base.html
-## │   │   ├── index.html
-## │   │   └── profile.html
-## ├── tests/
-## │   ├── test_app.py
-## ├── README.md
-## ├── requirements.txt
-## └── .gitignore
-
-
 # UserProfileManagementSystem
 
 A simple user profile management system built with Flask.
